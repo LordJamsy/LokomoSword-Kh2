@@ -69,7 +69,7 @@ assets:
 - name: remastered/itempic/item-046.imd/-0.dds
   method: copy
   source:
-  - name: remastered/itempic/item-046.imd/-0.dds
+  - name: remastered/itempic/item-043.imd/-0.dds
 - name: msg/us/sys.bar
   method: binarc
   source:
