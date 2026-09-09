@@ -1,75 +1,75 @@
 title: Lokomo Sword KH2
-originalAuthor: dallin1016
-description: Replaces Kingdom Key with the Lokomo Sword from The Legend of Zelda Spirit Tracks.
+originalAuthor: LordJamsy
+description: Replaces Oathkeeper with the Lokomo Sword from The Legend of Zelda Spirit Tracks.
 assets:
-- name: obj/W_EX010.mdlx
+- name: obj/W_EX010_10.mdlx
   method: copy
   source:
-  - name: obj/W_EX010.mdlx
-- name: obj/W_EX010_NM.mdlx
+  - name: obj/W_EX010_10.mdlx
+- name: obj/W_EX010_10_NM.mdlx
   method: copy
   source:
-  - name: obj/W_EX010_NM.mdlx
-- name: obj/W_EX010_TR.mdlx
+  - name: obj/W_EX010_10_NM.mdlx
+- name: obj/W_EX010_10_TR.mdlx
   method: copy
   source:
-  - name: obj/W_EX010_TR.mdlx
-- name: obj/W_EX010_WI.mdlx
+  - name: obj/W_EX010_10_TR.mdlx
+- name: obj/W_EX010_10_WI.mdlx
   method: copy
   source:
-  - name: obj/W_EX010_WI.mdlx
-- name: remastered/obj/W_EX010.mdlx/-0.dds
+  - name: obj/W_EX010_10_WI.mdlx
+- name: remastered/obj/W_EX010_10.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010.mdlx/-0.dds
-- name: remastered/obj/W_EX010.a.us/-0.dds
+  - name: remastered/obj/W_EX010_10.mdlx/-0.dds
+- name: remastered/obj/W_EX010_10.a.us/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010.a.us/-0.dds
-- name: remastered/obj/W_EX010.a.us/-1.dds
+  - name: remastered/obj/W_EX010_10.a.us/-0.dds
+- name: remastered/obj/W_EX010_10.a.us/-1.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010.a.us/-1.dds
-- name: remastered/obj/W_EX010_NM.mdlx/-0.dds
+  - name: remastered/obj/W_EX010_10.a.us/-1.dds
+- name: remastered/obj/W_EX010_10_NM.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_NM.mdlx/-0.dds
-- name: remastered/obj/W_EX010_NM.a.us/-0.dds
+  - name: remastered/obj/W_EX010_10_NM.mdlx/-0.dds
+- name: remastered/obj/W_EX010_10_NM.a.us/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_NM.a.us/-0.dds
-- name: remastered/obj/W_EX010_NM.a.us/-1.dds
+  - name: remastered/obj/W_EX010_10_NM.a.us/-0.dds
+- name: remastered/obj/W_EX010_10_NM.a.us/-1.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_NM.a.us/-1.dds
-- name: remastered/obj/W_EX010_TR.mdlx/-0.dds
+  - name: remastered/obj/W_EX010_10_NM.a.us/-1.dds
+- name: remastered/obj/W_EX010_10_TR.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_TR.mdlx/-0.dds
-- name: remastered/obj/W_EX010_TR.a.us/-0.dds
+  - name: remastered/obj/W_EX010_10_TR.mdlx/-0.dds
+- name: remastered/obj/W_EX010_10_TR.a.us/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_TR.a.us/-0.dds
-- name: remastered/obj/W_EX010_TR.a.us/-1.dds
+  - name: remastered/obj/W_EX010_10_TR.a.us/-0.dds
+- name: remastered/obj/W_EX010_10_TR.a.us/-1.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_TR.a.us/-1.dds
-- name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+  - name: remastered/obj/W_EX010_10_TR.a.us/-1.dds
+- name: remastered/obj/W_EX010_10_WI.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_WI.a.us/-0.dds
+  - name: remastered/obj/W_EX010_10_WI.mdlx/-0.dds
+- name: remastered/obj/W_EX010_10_WI.a.us/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_WI.a.us/-1.dds
+  - name: remastered/obj/W_EX010_10_WI.a.us/-0.dds
+- name: remastered/obj/W_EX010_10_WI.a.us/-1.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_WI.a.us/-1.dds
-- name: remastered/itempic/item-043.imd/-0.dds
+  - name: remastered/obj/W_EX010_10_WI.a.us/-1.dds
+- name: remastered/itempic/item-044.imd/-0.dds
   method: copy
   source:
-  - name: remastered/itempic/item-043.imd/-0.dds
+  - name: remastered/itempic/item-044.imd/-0.dds
 - name: msg/us/sys.bar
   method: binarc
   source:
